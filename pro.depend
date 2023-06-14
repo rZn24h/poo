@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686672288 source:c:\users\herta\desktop\faculta\poo\pro\main.cpp
+	<iostream>
+	<fstream>
+
